@@ -1,5 +1,5 @@
 body  {
-    background-color: #7bf5f5;;
+    background-color: #FFF6C3;
 }
 hr {
 border-style:none;
@@ -10,15 +10,16 @@ border-color: grey;
 border-width: 5px;
 }
 h1 {
-color: #62B6B7;
+    color: #F9B5D0;
 font: 2em Brush Script MT;
 }
 h2{
-    color: #62B6B7;
-    font: 2em Poppins;
+    color: #F9B5D0;
+
+        font: 2em Poppins;
 
 }
 h3 {
-    color: #62B6B7;
+    color: #F9B5D0;
     font: 2em Poppins;
 }
